@@ -8,8 +8,8 @@ public class SbRestAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbRestAppApplication.class, args);
-		int i  = 10;
-		int j = 20;
+		int i  = 20;
+		int j = 30;
 	}
 
 }
