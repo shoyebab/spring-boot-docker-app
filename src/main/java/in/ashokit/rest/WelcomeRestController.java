@@ -26,7 +26,7 @@ public class WelcomeRestController {
 	}
 	//task-51
 	public void m2(){
-		//logic
+		Strign name= alex;
 	}
 	
 	@GetMapping("/greet")
