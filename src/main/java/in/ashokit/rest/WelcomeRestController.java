@@ -48,5 +48,10 @@ public class WelcomeRestController {
 		int j= 20;
 		//logic
 	}
+
+	//task-52
+	public void m3(){
+		//logic
+	}
 	
 }
