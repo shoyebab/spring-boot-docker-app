@@ -27,6 +27,7 @@ public class WelcomeRestController {
 	//task-51
 	public void m2(){
 		Strign name= alex;
+		String car= Tesla;
 	}
 	
 	@GetMapping("/greet")
