@@ -41,6 +41,11 @@ public class WelcomeRestController {
 		logger.info("***** ***************************** *****");
 		return msg;
 	}
-	
+    //task-50
+	public void m1(){
+		int i = 10;
+		int j= 20;
+		//logic
+	}
 	
 }
